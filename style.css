@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 60px;
+}
+.first-section h2 {
+    font-size: 60px;
+    color: aqua;
+}
+p {
+    padding-bottom: 10px;
+}
+.border {
+    border-left: 5px solid;
+    line-height: 50px;
+    padding-left: 10px;
+    border-color: yellowgreen;
+}
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+.first-section {
+    width: 50%;
+    padding-left: 5%;
+}
+.first-section img {
+    width: 60%;
+}
+.first-link-botton {
+    background-color: green;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.mission-2022 h1 {
+    text-align: center;
+}
+.part {
+    color: aqua;
+}
+.mission-1 {
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    Background-color: #ffeeee;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.mission-1 img {
+    width: 60%;
+}
+.mission-2 {
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    Background-color: #fff4d6;
+    border-radius: 10px;
+}
+.mission-2 img {
+    width: 60%;
+}
+
+.mission-3 {
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    Background-color: #edf5f6;
+    border-radius: 10px;
+}
+.mission-3 img {
+    width: 60%;
+}
+.first-section a {
+    background-color: green;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.first-section h3 {
+    font-size: 50px;
+    
+    line-height: 50px;
+    
+}
+.build {
+    text-align: center;
+}
+.foo {
+    background-color: #0b0d17;
+    padding-top: 100px;
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+.foo h1 {
+    font-size: 100px;
+    position: center;
+}
